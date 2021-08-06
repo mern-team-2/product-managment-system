@@ -1,0 +1,7 @@
+error: Aug-03-2021 12:52:40: 	404 || getProduct() invoked || No data found with this ID
+error: Aug-03-2021 12:54:39: 	404|| editProduct() invoked || No match ID found!!
+error: Aug-03-2021 13:04:18: 	404 || getProduct() invoked || No data found with this ID
+error: Aug-05-2021 13:17:46: 	404 || getProducts() invoked || MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+error: Aug-06-2021 08:03:44: 	NOT connected to mongoDB - Error: querySrv ECONNREFUSED _mongodb._tcp.product-db.9pxza.mongodb.net
+error: Aug-06-2021 08:06:25: 	404 || getProducts() invoked || MongooseError: Operation `products.find()` buffering timed out after 10000ms
+error: Aug-06-2021 08:07:00: 	404 || getProducts() invoked || MongooseError: Operation `products.find()` buffering timed out after 10000ms

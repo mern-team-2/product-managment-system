@@ -1,0 +1,99 @@
+info: Aug-03-2021 12:51:15: 	server is running on- http://localhost:3001
+info: Aug-03-2021 12:51:17: 	connected to mongoDB
+info: Aug-03-2021 12:52:12: 	 200 || getProducts() invoked
+info: Aug-03-2021 12:52:31: 	 200 || getProduct() invoked
+error: Aug-03-2021 12:52:40: 	404 || getProduct() invoked || No data found with this ID
+info: Aug-03-2021 12:53:13: 	 200 || getProducts() invoked
+info: Aug-03-2021 12:54:09: 	 200 || editProduct() invoked
+error: Aug-03-2021 12:54:39: 	404|| editProduct() invoked || No match ID found!!
+info: Aug-03-2021 13:01:50: 	server is running on- http://localhost:3001
+info: Aug-03-2021 13:01:52: 	connected to mongoDB
+info: Aug-03-2021 13:02:54: 	server is running on- http://localhost:3001
+info: Aug-03-2021 13:02:59: 	connected to mongoDB
+info: Aug-03-2021 13:03:32: 	server is running on- http://localhost:3001
+info: Aug-03-2021 13:03:34: 	connected to mongoDB
+info: Aug-03-2021 13:03:56: 	 200 || getProducts() invoked
+info: Aug-03-2021 13:04:08: 	 200 || getProduct() invoked
+error: Aug-03-2021 13:04:18: 	404 || getProduct() invoked || No data found with this ID
+info: Aug-05-2021 10:58:36: 	server is running on- http://localhost:3001
+info: Aug-05-2021 10:58:40: 	connected to mongoDB
+info: Aug-05-2021 11:09:50: 	 200 || getProducts() invoked
+info: Aug-05-2021 11:10:15: 	 304 || getProducts() invoked
+info: Aug-05-2021 11:10:22: 	 304 || getProducts() invoked
+info: Aug-05-2021 11:11:04: 	 304 || getProducts() invoked
+info: Aug-05-2021 11:11:04: 	 200 || addProduct() invoked
+info: Aug-05-2021 11:11:06: 	 200 || getProducts() invoked
+info: Aug-05-2021 11:11:12: 	 200 || deleteProduct() invoked
+info: Aug-05-2021 11:11:12: 	 200 || getProducts() invoked
+info: Aug-05-2021 11:11:15: 	 200 || deleteProduct() invoked
+info: Aug-05-2021 11:11:15: 	 200 || getProducts() invoked
+info: Aug-05-2021 11:11:28: 	 200 || getProduct() invoked
+info: Aug-05-2021 11:11:32: 	 304 || getProducts() invoked
+info: Aug-05-2021 11:11:35: 	 304 || getProduct() invoked
+info: Aug-05-2021 11:11:47: 	 304 || getProducts() invoked
+info: Aug-05-2021 11:11:47: 	 200 || editProduct() invoked
+info: Aug-05-2021 11:11:48: 	 200 || getProducts() invoked
+info: Aug-05-2021 11:26:56: 	 200 || getProducts() invoked
+info: Aug-05-2021 11:27:00: 	 304 || getProducts() invoked
+info: Aug-05-2021 11:39:17: 	 304 || getProducts() invoked
+info: Aug-05-2021 11:39:19: 	 200 || getProduct() invoked
+info: Aug-05-2021 11:39:25: 	 304 || getProduct() invoked
+error: Aug-05-2021 13:17:46: 	404 || getProducts() invoked || MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+info: Aug-05-2021 13:18:03: 	 200 || getProducts() invoked
+info: Aug-05-2021 13:18:03: 	 200 || getProducts() invoked
+info: Aug-05-2021 13:18:49: 	 200 || getProducts() invoked
+info: Aug-05-2021 13:19:13: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:19:16: 	 200 || getProduct() invoked
+info: Aug-05-2021 13:19:22: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:19:23: 	 304 || getProduct() invoked
+info: Aug-05-2021 13:19:37: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:19:38: 	 200 || editProduct() invoked
+info: Aug-05-2021 13:19:39: 	 200 || getProducts() invoked
+info: Aug-05-2021 13:20:17: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:20:18: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:20:43: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:20:47: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:20:49: 	 200 || getProduct() invoked
+info: Aug-05-2021 13:21:02: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:21:02: 	 200 || editProduct() invoked
+info: Aug-05-2021 13:21:03: 	 200 || getProducts() invoked
+info: Aug-05-2021 13:30:36: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:31:51: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:31:57: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:32:02: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:32:44: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:32:59: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:36:40: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:37:37: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:37:46: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:39:20: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:39:24: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:46:46: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:46:47: 	 304 || getProduct() invoked
+info: Aug-05-2021 13:46:54: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:46:54: 	 200 || editProduct() invoked
+info: Aug-05-2021 13:46:56: 	 200 || getProducts() invoked
+info: Aug-05-2021 13:50:26: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:50:51: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:51:03: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:51:05: 	 200 || getProduct() invoked
+info: Aug-05-2021 13:51:23: 	 304 || getProduct() invoked
+info: Aug-05-2021 13:54:01: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:54:11: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:54:30: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:54:33: 	 304 || getProduct() invoked
+info: Aug-05-2021 13:55:36: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:55:43: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:55:45: 	 304 || getProduct() invoked
+info: Aug-05-2021 13:55:56: 	 304 || getProducts() invoked
+info: Aug-05-2021 13:55:56: 	 200 || editProduct() invoked
+info: Aug-05-2021 13:55:57: 	 200 || getProducts() invoked
+info: Aug-06-2021 08:03:44: 	server is running on- http://localhost:3001
+error: Aug-06-2021 08:03:44: 	NOT connected to mongoDB - Error: querySrv ECONNREFUSED _mongodb._tcp.product-db.9pxza.mongodb.net
+error: Aug-06-2021 08:06:25: 	404 || getProducts() invoked || MongooseError: Operation `products.find()` buffering timed out after 10000ms
+error: Aug-06-2021 08:07:00: 	404 || getProducts() invoked || MongooseError: Operation `products.find()` buffering timed out after 10000ms
+info: Aug-06-2021 08:07:30: 	server is running on- http://localhost:3001
+info: Aug-06-2021 08:07:32: 	connected to mongoDB
+info: Aug-06-2021 08:07:59: 	 200 || getProducts() invoked
+info: Aug-06-2021 08:08:10: 	 304 || getProducts() invoked
+info: Aug-06-2021 08:08:20: 	 200 || getProduct() invoked
