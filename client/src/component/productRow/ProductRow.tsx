@@ -16,8 +16,13 @@ const Row = (props: any) => {
                 <TableCell align="right" >{productDeatail.description}</TableCell>
                 <TableCell align="right" >{productDeatail.releaseDate}</TableCell>
                 <TableCell><Button  variant="outlined" color="secondary"
-                                 onClick={(ev) => {
-                                    deleteHandler(productDeatail.productId)
+                                onClick={() => {
+                                    const confirmBox = window.confirm(
+                                        "Do you really want to delete this product"
+                                    )
+                                    if(confirmBox === true) {
+                                        deleteHandler(productDeatail.productId)
+                                    }     
                                 }}>Delete</Button></TableCell>
             </TableRow> 
     )
